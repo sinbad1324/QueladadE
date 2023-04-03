@@ -1,8 +1,3 @@
 ---------------------------AONEPIECEGAMESEA1AND2WITHRAIDFARME---------------------------------------------------------------
-if game.PlaceId == 8396586868 or game.PlaceId == 9432106399 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/sinbad1324/montAruedeOpg/main/FIN"))()
-elseif game.Workspace:FindFirstChild("Raid Map") and  game:GetService("Workspace")["Entities"] and game:GetService("Workspace"):FindFirstChild("Raid") or game:GetService("Workspace"):FindFirstChild("Maze")  then
-print("Maze or Bah")
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/sinbad1324/montAruedeOpg/main/FIN"))()
-----------------AONEPIECEGAMESEA1AND2WITHRAIDFARME---------------------------------------------------------------
-end
+
